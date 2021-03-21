@@ -1,3 +1,3 @@
-Landing Page Project
+#Landing Page Project
 
-Tasked with building a number of site features dynamically through JavaScript 
+Showcases a number of site features built dynamically with JavaScript.
